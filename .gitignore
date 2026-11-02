@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Create React App production build
+/build
+
+# macOS
+.DS_Store
